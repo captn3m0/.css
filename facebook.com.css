@@ -76,3 +76,19 @@ body.fbIndex {
 	margin: 100px 0 4px -10px;
 
 }
+
+#fbNotificationsFlyout{
+	font-size:0.8em;
+}
+#fbNotificationsFlyout ._33h{
+	background-size: 30px 30px;
+}
+#fbNotificationsFlyout img{
+	max-height: 30px;
+}
+#fbNotificationsFlyout ._33f{
+	display:none;
+}
+#fbNotificationsFlyout ._33e{
+	padding: 3px 7px 0px 7px;
+}
