@@ -1,0 +1,3 @@
+center, div[align=center], td[valign=bottom]{
+	display: none;
+}
