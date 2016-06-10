@@ -85,3 +85,8 @@ body.fbIndex {
 .UFIImageBlockContent .UFICommentContent > div:empty::after {
     content: "[sticker]";
 }
+
+/** Facebook login popup and the login bluebar at top */
+#pagelet_growth_expanding_cta, #pagelet_bluebar {
+	display: none;
+}
