@@ -1,0 +1,362 @@
+/**
+ * Compiled version of https://github.com/erikdesjardins/solarized-theme
+ */
+#userbarToggle,
+body,
+.content,
+.side,
+.tabmenu li a,
+.tabmenu li.selected a,
+.comments-page .comment,
+.RESDialogSmall.livePreview > h3 {
+  background-color: #fdf6e3 !important;
+}
+.res-nightmode #header-bottom-right, .res-nightmode
+#userbarToggle, .res-nightmode
+body, .res-nightmode
+.content, .res-nightmode
+.side, .res-nightmode
+.tabmenu li a, .res-nightmode
+.tabmenu li.selected a, .res-nightmode
+.comments-page .comment, .res-nightmode
+.RESDialogSmall.livePreview > h3 {
+  background-color: #002b36 !important;
+}
+
+#header,
+#siteTable .usertext-body .md,
+textarea,
+input,
+.infobar,
+.morelink,
+.linkinfo,
+.side .sidebox,
+.titlebox,
+.titlebox .redditname,
+.titlebox form.toggle,
+.leavemoderator,
+.sidecontentbox .content,
+.footer,
+.icon-menu a,
+.wiki-page-content pre,
+.usertext-edit .RESDialogSmall.livePreview .md.RESDialogContents {
+  border: none;
+  background: #eee8d5 !important;
+}
+.res-nightmode #header, .res-nightmode
+#siteTable .usertext-body .md, .res-nightmode
+textarea, .res-nightmode
+input, .res-nightmode
+.infobar, .res-nightmode
+.morelink, .res-nightmode
+.linkinfo, .res-nightmode
+.side .sidebox, .res-nightmode
+.titlebox, .res-nightmode
+.titlebox .redditname, .res-nightmode
+.titlebox form.toggle, .res-nightmode
+.leavemoderator, .res-nightmode
+.sidecontentbox .content, .res-nightmode
+.footer, .res-nightmode
+.icon-menu a, .res-nightmode
+.wiki-page-content pre, .res-nightmode
+.usertext-edit .RESDialogSmall.livePreview .md.RESDialogContents {
+  border: none !important;
+  background: #073642 !important;
+}
+
+body,
+textarea,
+input,
+.side {
+  color: #657b83;
+}
+.res-nightmode body, .res-nightmode
+textarea, .res-nightmode
+input, .res-nightmode
+.side {
+  color: #839496 !important;
+}
+
+.res-nightmode .side .usertext-body ol,
+.res-nightmode .side .usertext-body .md blockquote p,
+.res-nightmode .side h1,
+.res-nightmode .side h2,
+.res-nightmode .side h3,
+.res-nightmode .side h4,
+.res-nightmode .side h5,
+.res-nightmode .side h6 {
+  color: #839496 !important;
+}
+
+.tagline,
+.linkinfo .date,
+.linkinfo .shortlink,
+.domain a,
+.leavemoderator,
+.titlebox form.toggle,
+.titlebox .bottom,
+.gadget small,
+.bottommenu,
+.commentingAs,
+.debuginfo {
+  color: #93a1a1 !important;
+}
+.res-nightmode .tagline, .res-nightmode
+.linkinfo .date, .res-nightmode
+.linkinfo .shortlink, .res-nightmode
+.domain a, .res-nightmode
+.leavemoderator, .res-nightmode
+.titlebox form.toggle, .res-nightmode
+.titlebox .bottom, .res-nightmode
+.gadget small, .res-nightmode
+.bottommenu, .res-nightmode
+.commentingAs, .res-nightmode
+.debuginfo {
+  color: #586e75 !important;
+}
+
+.tagline a.author,
+.entry .buttons li a,
+.commentarea .menuarea .toggle a,
+.sidecontentbox .title h1,
+.flat-vert.title,
+.linkinfo .score *,
+.RESDialogSmall > h3 {
+  color: #586e75;
+}
+.res-nightmode .tagline a.author, .res-nightmode
+.entry .buttons li a, .res-nightmode
+.commentarea .menuarea .toggle a, .res-nightmode
+.sidecontentbox .title h1, .res-nightmode
+.flat-vert.title, .res-nightmode
+.linkinfo .score *, .res-nightmode
+.RESDialogSmall > h3 {
+  color: #93a1a1;
+}
+
+.midcol .arrow.down,
+.midcol .arrow.down:hover {
+  background: url(%%spritesheet%%) bottom right !important;
+}
+
+.midcol .arrow.up,
+.midcol .arrow.up:hover {
+  background: url(%%spritesheet%%) bottom left !important;
+}
+
+.midcol .arrow.downmod {
+  background: url(%%spritesheet%%) top right !important;
+}
+
+.midcol .arrow.upmod {
+  background: url(%%spritesheet%%) top left !important;
+}
+
+.buygold,
+a.give-gold {
+  color: #b58900;
+}
+
+.link .score.likes,
+.tagline .friend,
+.linkinfo .upvotes {
+  color: #cb4b16;
+}
+
+div.thing p.tagline .author.friend {
+  background-color: #cb4b16 !important;
+}
+
+.tagline .admin {
+  color: #dc322f;
+}
+
+div.thing p.tagline a.author.admin,
+.fancy-toggle-button .remove,
+.RESshortcutside.remove,
+.RESDashboardToggle.remove {
+  background: #dc322f !important;
+}
+
+.thing div.entry.RES-keyNav-activeElement {
+  border-right: 10px solid #d33682 !important;
+  outline: none !important;
+  box-shadow: 0 0 5px 0 #d33682, 0 0 5px 0 #d33682 !important;
+}
+
+.tabmenu li.selected a,
+.morelink:hover a,
+a:hover,
+.tagline a:hover {
+  color: #d33682 !important;
+}
+
+.link .score.dislikes,
+.linkinfo .downvotes,
+.thing .title:visited,
+.thing.visited .title {
+  color: #6c71c4 !important;
+}
+
+a {
+  color: #268bd2;
+}
+
+.tagline .submitter,
+.thing .title,
+.side a,
+.footer a {
+  color: #268bd2 !important;
+}
+
+div.thing .tagline .author.submitter {
+  background: #268bd2 !important;
+}
+
+.redditname a {
+  color: #2aa198 !important;
+  font-size: 30px;
+}
+
+.link.last-clicked {
+  border: none;
+  overflow: initial;
+}
+.link.last-clicked .entry {
+  border-right: 5px solid #2aa198;
+  box-shadow: 0 0 5px 0 #2aa198;
+}
+
+.tagline .moderator,
+.thing.stickied.link a.title,
+.tagline .stickied-tagline,
+.bottommenu .updated {
+  color: #859900;
+}
+
+div.thing p.tagline .author.moderator,
+.fancy-toggle-button .add,
+.RESshortcutside,
+.RESDashboardToggle {
+  background: #859900 !important;
+}
+
+.thing.stickied > .entry {
+  border-right: 5px solid #859900;
+  box-shadow: 0 0 5px 0 #859900;
+}
+
+pre.subreddit-stylesheet-source,
+pre .value {
+  color: #657b83 !important;
+}
+.res-nightmode pre.subreddit-stylesheet-source, .res-nightmode
+pre .value {
+  color: #839496 !important;
+}
+pre .comment {
+  color: #93a1a1 !important;
+}
+.res-nightmode pre .comment {
+  color: #586e75 !important;
+}
+pre .class {
+  color: #586e75 !important;
+}
+.res-nightmode pre .class {
+  color: #93a1a1 !important;
+}
+pre .tag {
+  color: #6c71c4 !important;
+}
+pre .attribute {
+  color: #859900 !important;
+}
+pre .hexcolor,
+pre .number {
+  color: #2aa198 !important;
+}
+pre .id {
+  color: #dc322f !important;
+}
+pre .string {
+  color: #cb4b16 !important;
+}
+
+#header {
+  border-bottom: 1px solid #586e75;
+}
+.res-nightmode #header {
+  border-bottom-color: #93a1a1;
+}
+
+.tabmenu li.selected a {
+  padding-bottom: 1px;
+  border-bottom: none;
+  border-color: #586e75;
+}
+.res-nightmode .tabmenu li.selected a {
+  border: none;
+}
+
+#header-bottom-right,
+#userbarToggle {
+  border: none !important;
+}
+
+.titlebox {
+  padding: 5px;
+}
+
+.gadget .entry {
+  margin: 0;
+}
+
+.RESDialogSmall.livePreview {
+  border: none;
+}
+.RESDialogSmall.livePreview h3 {
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.usertext-edit .RESDialogSmall.livePreview .md.RESDialogContents {
+  margin: 0;
+  padding-top: 20px;
+}
+
+* {
+  border-radius: 0 !important;
+}
+
+#header-img,
+.thumbnail.self,
+.thumbnail.default,
+.nub,
+.sidebox.create .spacer,
+.gadget .midcol,
+.collapse-button {
+  display: none !important;
+}
+
+.subscribers .word,
+.users-online .word {
+  display: none;
+}
+
+.subscribers .number::after {
+  content: ' subscribers';
+}
+
+.users-online {
+  display: inline;
+}
+.users-online .number::before {
+  content: ' (';
+}
+.users-online .number::after {
+  content: ' online)';
+}
