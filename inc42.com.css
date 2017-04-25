@@ -1,0 +1,25 @@
+article .entry-content p, .article-default-width {
+	max-width: 90% !important;
+}
+
+.mashsb-main {
+	display: none !important;
+}
+
+.article-card.squarebig {
+   height: 300px !important;
+}
+
+.tap-tap-header {
+	display: none !important;
+}
+
+article .entry-content p a[href^="https://inc42.com/tag/"] {
+	border-bottom: 0px !important;
+	box-shadow: none !important;
+}
+
+#card-nextpost {
+	display: none !important;
+}
+
