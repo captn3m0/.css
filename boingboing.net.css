@@ -1,0 +1,7 @@
+.share, #next-post-thumbnails, #footer {
+	display: none
+}
+
+#text {
+	width: 90% !important;
+}
