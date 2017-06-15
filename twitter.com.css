@@ -1,3 +1,11 @@
 .tcu-imageWrapper img {
 	display:none;
 }
+
+.RichEditor {
+	border-radius: 0px !important;
+}
+
+.avatar {
+	border-radius: 3px !important;
+}
