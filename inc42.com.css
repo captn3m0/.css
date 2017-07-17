@@ -14,12 +14,11 @@ article .entry-content p, .article-default-width {
 	display: none !important;
 }
 
-article .entry-content p a[href^="https://inc42.com/tag/"] {
+a[href^="https://inc42.com/tag/"], a[href^="https://inc42.com/buzz/"], a[href^="https://inc42.com/flash-feed/"] {
 	border-bottom: 0px !important;
 	box-shadow: none !important;
 }
-
-#card-nextpost {
+.code-block-12, #card-nextpost {
 	display: none !important;
 }
 
