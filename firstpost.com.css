@@ -1,0 +1,3 @@
+noscript, .sidebar, .header-bottom, .social-share-wrap, .more-news{
+	display: none !important;
+}
