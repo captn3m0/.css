@@ -1,0 +1,3 @@
+.social-container>.pull-right,.right-container,footer,.article-slider{display: none}
+
+li[class^=you_may_also_like]{display: none !important;}
