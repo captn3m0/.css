@@ -1,0 +1,14 @@
+.lg-device,
+.sticky-social-icons-lg,
+footer,
+.right-sidebar,
+.subscribe-box,
+.special-news,
+.lead-stories
+{
+	display: none !important;
+}
+
+.content{
+	min-width: 900px !important;
+}
