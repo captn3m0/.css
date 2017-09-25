@@ -1,0 +1,7 @@
+.rightpanel,
+.related-full,
+.latest-news,
+.share-social,
+.custom-caption .dnews {
+	display: none !important;
+}
