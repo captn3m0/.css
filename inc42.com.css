@@ -1,5 +1,6 @@
-article .entry-content p, .article-default-width {
-	max-width: 90% !important;
+article .entry-content p,
+.article-default-width {
+	max-width: 900px !important;
 }
 
 .mashsb-main {
@@ -7,18 +8,20 @@ article .entry-content p, .article-default-width {
 }
 
 .article-card.squarebig {
-   height: 300px !important;
+	height: 300px !important;
 }
 
 .tap-tap-header {
 	display: none !important;
 }
 
-a[href^="https://inc42.com/tag/"], a[href^="https://inc42.com/buzz/"], a[href^="https://inc42.com/flash-feed/"] {
+a[href^='https://inc42.com/tag/'],
+a[href^='https://inc42.com/buzz/'],
+a[href^='https://inc42.com/flash-feed/'] {
 	border-bottom: 0px !important;
 	box-shadow: none !important;
 }
-.code-block-12, #card-nextpost {
+.code-block-12,
+#card-nextpost {
 	display: none !important;
 }
-
