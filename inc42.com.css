@@ -3,16 +3,24 @@ article .entry-content p,
 	max-width: 900px !important;
 }
 
-.mashsb-main {
-	display: none !important;
-}
-
 .article-card.squarebig {
 	height: 300px !important;
 }
 
-.tap-tap-header {
+div[class^='taptap'],
+.headerad,
+.disclaimer-block,
+.entry-footer,
+.mashsb-main,
+#comments-container,
+.code-block-12,
+#card-nextpost,
+.widget-area {
 	display: none !important;
+	height: 0px !important;
+}
+body {
+	margin-top: 0px !important;
 }
 
 a[href^='https://inc42.com/tag/'],
@@ -20,8 +28,4 @@ a[href^='https://inc42.com/buzz/'],
 a[href^='https://inc42.com/flash-feed/'] {
 	border-bottom: 0px !important;
 	box-shadow: none !important;
-}
-.code-block-12,
-#card-nextpost {
-	display: none !important;
 }
