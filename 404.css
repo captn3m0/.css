@@ -9,7 +9,22 @@ a[href^="http://ad.nl"]::before, a[href^="https://ad.nl"]::before, a[href^="http
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://adelaidenow.com.au"]::before, a[href^="https://adelaidenow.com.au"]::before, a[href^="https://adelaidenow.com.au"]::before, a[href^="http://adelaidenow.com.au"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://afr.com"]::before, a[href^="https://afr.com"]::before, a[href^="https://afr.com"]::before, a[href^="http://afr.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://americanbanker.com"]::before, a[href^="https://americanbanker.com"]::before, a[href^="https://americanbanker.com"]::before, a[href^="http://americanbanker.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://asia.nikkei.com"]::before, a[href^="https://asia.nikkei.com"]::before, a[href^="https://asia.nikkei.com"]::before, a[href^="http://asia.nikkei.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -24,12 +39,22 @@ a[href^="http://barrons.com"]::before, a[href^="https://barrons.com"]::before, a
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://bizjournals.com"]::before, a[href^="https://bizjournals.com"]::before, a[href^="https://bizjournals.com"]::before, a[href^="http://bizjournals.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://bloomberg.com"]::before, a[href^="https://bloomberg.com"]::before, a[href^="https://bloomberg.com"]::before, a[href^="http://bloomberg.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
 a[href^="http://bloombergquint.com"]::before, a[href^="https://bloombergquint.com"]::before, a[href^="https://bloombergquint.com"]::before, a[href^="http://bloombergquint.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://britannica.com"]::before, a[href^="https://britannica.com"]::before, a[href^="https://britannica.com"]::before, a[href^="http://britannica.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -44,12 +69,22 @@ a[href^="http://caixinglobal.com"]::before, a[href^="https://caixinglobal.com"]:
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://centralwesterndaily.com.au"]::before, a[href^="https://centralwesterndaily.com.au"]::before, a[href^="https://centralwesterndaily.com.au"]::before, a[href^="http://centralwesterndaily.com.au"]::before {
+a[href^="http://canberratimes.com.au"]::before, a[href^="https://canberratimes.com.au"]::before, a[href^="https://canberratimes.com.au"]::before, a[href^="http://canberratimes.com.au"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
 a[href^="http://cen.acs.org"]::before, a[href^="https://cen.acs.org"]::before, a[href^="https://cen.acs.org"]::before, a[href^="http://cen.acs.org"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://centralwesterndaily.com.au"]::before, a[href^="https://centralwesterndaily.com.au"]::before, a[href^="https://centralwesterndaily.com.au"]::before, a[href^="http://centralwesterndaily.com.au"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://chicagobusiness.com"]::before, a[href^="https://chicagobusiness.com"]::before, a[href^="https://chicagobusiness.com"]::before, a[href^="http://chicagobusiness.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -64,7 +99,12 @@ a[href^="http://corriere.it"]::before, a[href^="https://corriere.it"]::before, a
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://chicagobusiness.com"]::before, a[href^="https://chicagobusiness.com"]::before, a[href^="https://chicagobusiness.com"]::before, a[href^="http://chicagobusiness.com"]::before {
+a[href^="http://courant.com"]::before, a[href^="https://courant.com"]::before, a[href^="https://courant.com"]::before, a[href^="http://courant.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://couriermail.com.au"]::before, a[href^="https://couriermail.com.au"]::before, a[href^="https://couriermail.com.au"]::before, a[href^="http://couriermail.com.au"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -74,7 +114,7 @@ a[href^="http://dailypress.com"]::before, a[href^="https://dailypress.com"]::bef
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://groene.nl"]::before, a[href^="https://groene.nl"]::before, a[href^="https://groene.nl"]::before, a[href^="http://groene.nl"]::before {
+a[href^="http://dailytelegraph.com.au"]::before, a[href^="https://dailytelegraph.com.au"]::before, a[href^="https://dailytelegraph.com.au"]::before, a[href^="http://dailytelegraph.com.au"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -89,17 +129,12 @@ a[href^="http://denverpost.com"]::before, a[href^="https://denverpost.com"]::bef
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://tijd.be"]::before, a[href^="https://tijd.be"]::before, a[href^="https://tijd.be"]::before, a[href^="http://tijd.be"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://.nl"]::before, a[href^="https://.nl"]::before, a[href^="https://.nl"]::before, a[href^="http://.nl"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://dynamed.com"]::before, a[href^="https://dynamed.com"]::before, a[href^="https://dynamed.com"]::before, a[href^="http://dynamed.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://economist.com"]::before, a[href^="https://economist.com"]::before, a[href^="https://economist.com"]::before, a[href^="http://economist.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -114,27 +149,22 @@ a[href^="http://elpais.com"]::before, a[href^="https://elpais.com"]::before, a[h
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://britannica.com"]::before, a[href^="https://britannica.com"]::before, a[href^="https://britannica.com"]::before, a[href^="http://britannica.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://examiner.com.au"]::before, a[href^="https://examiner.com.au"]::before, a[href^="https://examiner.com.au"]::before, a[href^="http://examiner.com.au"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://fnlondon.com"]::before, a[href^="https://fnlondon.com"]::before, a[href^="https://fnlondon.com"]::before, a[href^="http://fnlondon.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://ft.com"]::before, a[href^="https://ft.com"]::before, a[href^="https://ft.com"]::before, a[href^="http://ft.com"]::before {
+a[href^="http://fd.nl"]::before, a[href^="https://fd.nl"]::before, a[href^="https://fd.nl"]::before, a[href^="http://fd.nl"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
 a[href^="http://firstthings.com"]::before, a[href^="https://firstthings.com"]::before, a[href^="https://firstthings.com"]::before, a[href^="http://firstthings.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://fnlondon.com"]::before, a[href^="https://fnlondon.com"]::before, a[href^="https://fnlondon.com"]::before, a[href^="http://fnlondon.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -149,6 +179,11 @@ a[href^="http://fortune.com"]::before, a[href^="https://fortune.com"]::before, a
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://ft.com"]::before, a[href^="https://ft.com"]::before, a[href^="https://ft.com"]::before, a[href^="http://ft.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://genomeweb.com"]::before, a[href^="https://genomeweb.com"]::before, a[href^="https://genomeweb.com"]::before, a[href^="http://genomeweb.com"]::before {
   content: "$";
   color: green;
@@ -159,12 +194,17 @@ a[href^="http://glassdoor.com"]::before, a[href^="https://glassdoor.com"]::befor
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://haaretz.com"]::before, a[href^="https://haaretz.com"]::before, a[href^="https://haaretz.com"]::before, a[href^="http://haaretz.com"]::before {
+a[href^="http://groene.nl"]::before, a[href^="https://groene.nl"]::before, a[href^="https://groene.nl"]::before, a[href^="http://groene.nl"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
 a[href^="http://haaretz.co.il"]::before, a[href^="https://haaretz.co.il"]::before, a[href^="https://haaretz.co.il"]::before, a[href^="http://haaretz.co.il"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://haaretz.com"]::before, a[href^="https://haaretz.com"]::before, a[href^="https://haaretz.com"]::before, a[href^="http://haaretz.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -179,22 +219,12 @@ a[href^="http://harpers.org"]::before, a[href^="https://harpers.org"]::before, a
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://courant.com"]::before, a[href^="https://courant.com"]::before, a[href^="https://courant.com"]::before, a[href^="http://courant.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://hbr.org"]::before, a[href^="https://hbr.org"]::before, a[href^="https://hbr.org"]::before, a[href^="http://hbr.org"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
 a[href^="http://heraldsun.com.au"]::before, a[href^="https://heraldsun.com.au"]::before, a[href^="https://heraldsun.com.au"]::before, a[href^="http://heraldsun.com.au"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://fd.nl"]::before, a[href^="https://fd.nl"]::before, a[href^="https://fd.nl"]::before, a[href^="http://fd.nl"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -209,17 +239,42 @@ a[href^="http://inc.com"]::before, a[href^="https://inc.com"]::before, a[href^="
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://inquirer.com"]::before, a[href^="https://inquirer.com"]::before, a[href^="https://inquirer.com"]::before, a[href^="http://inquirer.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://investorschronicle.co.uk"]::before, a[href^="https://investorschronicle.co.uk"]::before, a[href^="https://investorschronicle.co.uk"]::before, a[href^="http://investorschronicle.co.uk"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://lanacion.com.ar"]::before, a[href^="https://lanacion.com.ar"]::before, a[href^="https://lanacion.com.ar"]::before, a[href^="http://lanacion.com.ar"]::before {
+a[href^="http://irishtimes.com"]::before, a[href^="https://irishtimes.com"]::before, a[href^="https://irishtimes.com"]::before, a[href^="http://irishtimes.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://repubblica.it"]::before, a[href^="https://repubblica.it"]::before, a[href^="https://repubblica.it"]::before, a[href^="http://repubblica.it"]::before {
+a[href^="http://japantimes.co.jp"]::before, a[href^="https://japantimes.co.jp"]::before, a[href^="https://japantimes.co.jp"]::before, a[href^="http://japantimes.co.jp"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://journalnow.com"]::before, a[href^="https://journalnow.com"]::before, a[href^="https://journalnow.com"]::before, a[href^="http://journalnow.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://kansascity.com"]::before, a[href^="https://kansascity.com"]::before, a[href^="https://kansascity.com"]::before, a[href^="http://kansascity.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://labusinessjournal.com"]::before, a[href^="https://labusinessjournal.com"]::before, a[href^="https://labusinessjournal.com"]::before, a[href^="http://labusinessjournal.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://lanacion.com.ar"]::before, a[href^="https://lanacion.com.ar"]::before, a[href^="https://lanacion.com.ar"]::before, a[href^="http://lanacion.com.ar"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -230,6 +285,11 @@ a[href^="http://lastampa.it"]::before, a[href^="https://lastampa.it"]::before, a
   text-decoration: none !important; }
 
 a[href^="http://latercera.com"]::before, a[href^="https://latercera.com"]::before, a[href^="https://latercera.com"]::before, a[href^="http://latercera.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://latimes.com"]::before, a[href^="https://latimes.com"]::before, a[href^="https://latimes.com"]::before, a[href^="http://latimes.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -264,12 +324,7 @@ a[href^="http://lrb.co.uk"]::before, a[href^="https://lrb.co.uk"]::before, a[hre
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://labusinessjournal.com"]::before, a[href^="https://labusinessjournal.com"]::before, a[href^="https://labusinessjournal.com"]::before, a[href^="http://labusinessjournal.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://latimes.com"]::before, a[href^="https://latimes.com"]::before, a[href^="https://latimes.com"]::before, a[href^="http://latimes.com"]::before {
+a[href^="http://mcall.com"]::before, a[href^="https://mcall.com"]::before, a[href^="https://mcall.com"]::before, a[href^="http://mcall.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -279,17 +334,12 @@ a[href^="http://medium.com"]::before, a[href^="https://medium.com"]::before, a[h
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://mercurynews.com"]::before, a[href^="https://mercurynews.com"]::before, a[href^="https://mercurynews.com"]::before, a[href^="http://mercurynews.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://mexiconewsdaily.com"]::before, a[href^="https://mexiconewsdaily.com"]::before, a[href^="https://mexiconewsdaily.com"]::before, a[href^="http://mexiconewsdaily.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://sloanreview.mit.edu"]::before, a[href^="https://sloanreview.mit.edu"]::before, a[href^="https://sloanreview.mit.edu"]::before, a[href^="http://sloanreview.mit.edu"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://technologyreview.com"]::before, a[href^="https://technologyreview.com"]::before, a[href^="https://technologyreview.com"]::before, a[href^="http://technologyreview.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -304,7 +354,7 @@ a[href^="http://nationalpost.com"]::before, a[href^="https://nationalpost.com"]:
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://nzz.ch"]::before, a[href^="https://nzz.ch"]::before, a[href^="https://nzz.ch"]::before, a[href^="http://nzz.ch"]::before {
+a[href^="http://news-gazette.com"]::before, a[href^="https://news-gazette.com"]::before, a[href^="https://news-gazette.com"]::before, a[href^="http://news-gazette.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -314,17 +364,7 @@ a[href^="http://newstatesman.com"]::before, a[href^="https://newstatesman.com"]:
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://nymag.com"]::before, a[href^="https://nymag.com"]::before, a[href^="https://nymag.com"]::before, a[href^="http://nymag.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://nzherald.co.nz"]::before, a[href^="https://nzherald.co.nz"]::before, a[href^="https://nzherald.co.nz"]::before, a[href^="http://nzherald.co.nz"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://asia.nikkei.com"]::before, a[href^="https://asia.nikkei.com"]::before, a[href^="https://asia.nikkei.com"]::before, a[href^="http://asia.nikkei.com"]::before {
+a[href^="http://newyorker.com"]::before, a[href^="https://newyorker.com"]::before, a[href^="https://newyorker.com"]::before, a[href^="http://newyorker.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -335,6 +375,26 @@ a[href^="http://nrc.nl"]::before, a[href^="https://nrc.nl"]::before, a[href^="ht
   text-decoration: none !important; }
 
 a[href^="http://ntnews.com.au"]::before, a[href^="https://ntnews.com.au"]::before, a[href^="https://ntnews.com.au"]::before, a[href^="http://ntnews.com.au"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://nymag.com"]::before, a[href^="https://nymag.com"]::before, a[href^="https://nymag.com"]::before, a[href^="http://nymag.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://nytimes.com"]::before, a[href^="https://nytimes.com"]::before, a[href^="https://nytimes.com"]::before, a[href^="http://nytimes.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://nzherald.co.nz"]::before, a[href^="https://nzherald.co.nz"]::before, a[href^="https://nzherald.co.nz"]::before, a[href^="http://nzherald.co.nz"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://nzz.ch"]::before, a[href^="https://nzz.ch"]::before, a[href^="https://nzz.ch"]::before, a[href^="http://nzz.ch"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -359,12 +419,17 @@ a[href^="http://parool.nl"]::before, a[href^="https://parool.nl"]::before, a[hre
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://quora.com"]::before, a[href^="https://quora.com"]::before, a[href^="https://quora.com"]::before, a[href^="http://quora.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://qz.com"]::before, a[href^="https://qz.com"]::before, a[href^="https://qz.com"]::before, a[href^="http://qz.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://quora.com"]::before, a[href^="https://quora.com"]::before, a[href^="https://quora.com"]::before, a[href^="http://quora.com"]::before {
+a[href^="http://repubblica.it"]::before, a[href^="https://repubblica.it"]::before, a[href^="https://repubblica.it"]::before, a[href^="http://repubblica.it"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -374,12 +439,12 @@ a[href^="http://sandiegouniontribune.com"]::before, a[href^="https://sandiegouni
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://sfchronicle.com"]::before, a[href^="https://sfchronicle.com"]::before, a[href^="https://sfchronicle.com"]::before, a[href^="http://sfchronicle.com"]::before {
+a[href^="http://scientificamerican.com"]::before, a[href^="https://scientificamerican.com"]::before, a[href^="https://scientificamerican.com"]::before, a[href^="http://scientificamerican.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://scientificamerican.com"]::before, a[href^="https://scientificamerican.com"]::before, a[href^="https://scientificamerican.com"]::before, a[href^="http://scientificamerican.com"]::before {
+a[href^="http://seattletimes.com"]::before, a[href^="https://seattletimes.com"]::before, a[href^="https://seattletimes.com"]::before, a[href^="http://seattletimes.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -389,7 +454,32 @@ a[href^="http://seekingalpha.com"]::before, a[href^="https://seekingalpha.com"]:
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://sfchronicle.com"]::before, a[href^="https://sfchronicle.com"]::before, a[href^="https://sfchronicle.com"]::before, a[href^="http://sfchronicle.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://sloanreview.mit.edu"]::before, a[href^="https://sloanreview.mit.edu"]::before, a[href^="https://sloanreview.mit.edu"]::before, a[href^="http://sloanreview.mit.edu"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://smh.com.au"]::before, a[href^="https://smh.com.au"]::before, a[href^="https://smh.com.au"]::before, a[href^="http://smh.com.au"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://sofrep.com"]::before, a[href^="https://sofrep.com"]::before, a[href^="https://sofrep.com"]::before, a[href^="http://sofrep.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://spectator.co.uk"]::before, a[href^="https://spectator.co.uk"]::before, a[href^="https://spectator.co.uk"]::before, a[href^="http://spectator.co.uk"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://spectator.com.au"]::before, a[href^="https://spectator.com.au"]::before, a[href^="https://spectator.com.au"]::before, a[href^="http://spectator.com.au"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -409,12 +499,32 @@ a[href^="http://techinasia.com"]::before, a[href^="https://techinasia.com"]::bef
   color: green;
   text-decoration: none !important; }
 
+a[href^="http://technologyreview.com"]::before, a[href^="https://technologyreview.com"]::before, a[href^="https://technologyreview.com"]::before, a[href^="http://technologyreview.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
 a[href^="http://telegraaf.nl"]::before, a[href^="https://telegraaf.nl"]::before, a[href^="https://telegraaf.nl"]::before, a[href^="http://telegraaf.nl"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://adelaidenow.com.au"]::before, a[href^="https://adelaidenow.com.au"]::before, a[href^="https://adelaidenow.com.au"]::before, a[href^="http://adelaidenow.com.au"]::before {
+a[href^="http://telegraph.co.uk"]::before, a[href^="https://telegraph.co.uk"]::before, a[href^="https://telegraph.co.uk"]::before, a[href^="http://telegraph.co.uk"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://the-american-interest.com"]::before, a[href^="https://the-american-interest.com"]::before, a[href^="https://the-american-interest.com"]::before, a[href^="http://the-american-interest.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://the-ken.com"]::before, a[href^="https://the-ken.com"]::before, a[href^="https://the-ken.com"]::before, a[href^="http://the-ken.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://the-tls.co.uk"]::before, a[href^="https://the-tls.co.uk"]::before, a[href^="https://the-tls.co.uk"]::before, a[href^="http://the-tls.co.uk"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -429,7 +539,7 @@ a[href^="http://theage.com.au"]::before, a[href^="https://theage.com.au"]::befor
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://the-american-interest.com"]::before, a[href^="https://the-american-interest.com"]::before, a[href^="https://the-american-interest.com"]::before, a[href^="http://the-american-interest.com"]::before {
+a[href^="http://theathletic.co.uk"]::before, a[href^="https://theathletic.co.uk"]::before, a[href^="https://theathletic.co.uk"]::before, a[href^="http://theathletic.co.uk"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -439,17 +549,7 @@ a[href^="http://theathletic.com"]::before, a[href^="https://theathletic.com"]::b
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://theathletic.co.uk"]::before, a[href^="https://theathletic.co.uk"]::before, a[href^="https://theathletic.co.uk"]::before, a[href^="http://theathletic.co.uk"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://theatlantic.com"]::before, a[href^="https://theatlantic.com"]::before, a[href^="https://theatlantic.com"]::before, a[href^="http://theatlantic.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://afr.com"]::before, a[href^="https://afr.com"]::before, a[href^="https://afr.com"]::before, a[href^="http://afr.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -459,37 +559,12 @@ a[href^="http://theaustralian.com.au"]::before, a[href^="https://theaustralian.c
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://bizjournals.com"]::before, a[href^="https://bizjournals.com"]::before, a[href^="https://bizjournals.com"]::before, a[href^="http://bizjournals.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://canberratimes.com.au"]::before, a[href^="https://canberratimes.com.au"]::before, a[href^="https://canberratimes.com.au"]::before, a[href^="http://canberratimes.com.au"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://thecourier.com.au"]::before, a[href^="https://thecourier.com.au"]::before, a[href^="https://thecourier.com.au"]::before, a[href^="http://thecourier.com.au"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://couriermail.com.au"]::before, a[href^="https://couriermail.com.au"]::before, a[href^="https://couriermail.com.au"]::before, a[href^="http://couriermail.com.au"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://dailytelegraph.com.au"]::before, a[href^="https://dailytelegraph.com.au"]::before, a[href^="https://dailytelegraph.com.au"]::before, a[href^="http://dailytelegraph.com.au"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://thediplomat.com"]::before, a[href^="https://thediplomat.com"]::before, a[href^="https://thediplomat.com"]::before, a[href^="http://thediplomat.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://economist.com"]::before, a[href^="https://economist.com"]::before, a[href^="https://economist.com"]::before, a[href^="http://economist.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -509,27 +584,7 @@ a[href^="http://thehindu.com"]::before, a[href^="https://thehindu.com"]::before,
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://irishtimes.com"]::before, a[href^="https://irishtimes.com"]::before, a[href^="https://irishtimes.com"]::before, a[href^="http://irishtimes.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://japantimes.co.jp"]::before, a[href^="https://japantimes.co.jp"]::before, a[href^="https://japantimes.co.jp"]::before, a[href^="http://japantimes.co.jp"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://kansascity.com"]::before, a[href^="https://kansascity.com"]::before, a[href^="https://kansascity.com"]::before, a[href^="http://kansascity.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://themarker.com"]::before, a[href^="https://themarker.com"]::before, a[href^="https://themarker.com"]::before, a[href^="http://themarker.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://mercurynews.com"]::before, a[href^="https://mercurynews.com"]::before, a[href^="https://mercurynews.com"]::before, a[href^="http://mercurynews.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -539,32 +594,7 @@ a[href^="http://themercury.com.au"]::before, a[href^="https://themercury.com.au"
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://mcall.com"]::before, a[href^="https://mcall.com"]::before, a[href^="https://mcall.com"]::before, a[href^="http://mcall.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://thenation.com"]::before, a[href^="https://thenation.com"]::before, a[href^="https://thenation.com"]::before, a[href^="http://thenation.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://news-gazette.com"]::before, a[href^="https://news-gazette.com"]::before, a[href^="https://news-gazette.com"]::before, a[href^="http://news-gazette.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://newyorker.com"]::before, a[href^="https://newyorker.com"]::before, a[href^="https://newyorker.com"]::before, a[href^="http://newyorker.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://nytimes.com"]::before, a[href^="https://nytimes.com"]::before, a[href^="https://nytimes.com"]::before, a[href^="http://nytimes.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://inquirer.com"]::before, a[href^="https://inquirer.com"]::before, a[href^="https://inquirer.com"]::before, a[href^="http://inquirer.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -574,27 +604,7 @@ a[href^="http://thesaturdaypaper.com.au"]::before, a[href^="https://thesaturdayp
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://seattletimes.com"]::before, a[href^="https://seattletimes.com"]::before, a[href^="https://seattletimes.com"]::before, a[href^="http://seattletimes.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://spectator.com.au"]::before, a[href^="https://spectator.com.au"]::before, a[href^="https://spectator.com.au"]::before, a[href^="http://spectator.com.au"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://spectator.co.uk"]::before, a[href^="https://spectator.co.uk"]::before, a[href^="https://spectator.co.uk"]::before, a[href^="http://spectator.co.uk"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://smh.com.au"]::before, a[href^="https://smh.com.au"]::before, a[href^="https://smh.com.au"]::before, a[href^="http://smh.com.au"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://telegraph.co.uk"]::before, a[href^="https://telegraph.co.uk"]::before, a[href^="https://telegraph.co.uk"]::before, a[href^="http://telegraph.co.uk"]::before {
+a[href^="http://thestar.com"]::before, a[href^="https://thestar.com"]::before, a[href^="https://thestar.com"]::before, a[href^="http://thestar.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -604,27 +614,12 @@ a[href^="http://thetimes.co.uk"]::before, a[href^="https://thetimes.co.uk"]::bef
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://thestar.com"]::before, a[href^="https://thestar.com"]::before, a[href^="https://thestar.com"]::before, a[href^="http://thestar.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://wsj.com"]::before, a[href^="https://wsj.com"]::before, a[href^="https://wsj.com"]::before, a[href^="http://wsj.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
-a[href^="http://washingtonpost.com"]::before, a[href^="https://washingtonpost.com"]::before, a[href^="https://washingtonpost.com"]::before, a[href^="http://washingtonpost.com"]::before {
-  content: "$";
-  color: green;
-  text-decoration: none !important; }
-
 a[href^="http://thewrap.com"]::before, a[href^="https://thewrap.com"]::before, a[href^="https://thewrap.com"]::before, a[href^="http://thewrap.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://the-tls.co.uk"]::before, a[href^="https://the-tls.co.uk"]::before, a[href^="https://the-tls.co.uk"]::before, a[href^="http://the-tls.co.uk"]::before {
+a[href^="http://tijd.be"]::before, a[href^="https://tijd.be"]::before, a[href^="https://tijd.be"]::before, a[href^="http://tijd.be"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
@@ -649,12 +644,17 @@ a[href^="http://vn.nl"]::before, a[href^="https://vn.nl"]::before, a[href^="http
   color: green;
   text-decoration: none !important; }
 
-a[href^="http://journalnow.com"]::before, a[href^="https://journalnow.com"]::before, a[href^="https://journalnow.com"]::before, a[href^="http://journalnow.com"]::before {
+a[href^="http://washingtonpost.com"]::before, a[href^="https://washingtonpost.com"]::before, a[href^="https://washingtonpost.com"]::before, a[href^="http://washingtonpost.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
 
 a[href^="http://wired.com"]::before, a[href^="https://wired.com"]::before, a[href^="https://wired.com"]::before, a[href^="http://wired.com"]::before {
+  content: "$";
+  color: green;
+  text-decoration: none !important; }
+
+a[href^="http://wsj.com"]::before, a[href^="https://wsj.com"]::before, a[href^="https://wsj.com"]::before, a[href^="http://wsj.com"]::before {
   content: "$";
   color: green;
   text-decoration: none !important; }
